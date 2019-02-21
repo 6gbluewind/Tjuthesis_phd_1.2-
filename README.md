@@ -1,4 +1,4 @@
-# Tjuthesis_phd_1.2-
+# Tjuthesis_phd_1.2ε
 This is a refinement edition of TJU Ph.D thesis template.
 这是一个天津大学（北洋大学）的博士毕业论文模板。
 
