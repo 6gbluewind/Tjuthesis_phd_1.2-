@@ -1,6 +1,6 @@
-# Tjuthesis_phd_1.2ε
+# Tjuthesis_phd_Latex_1.2ε
 
-## This is a refinement edition of TJU Ph.D thesis template. 
+## This is a refinement edition of TJU Ph.D thesis template in \LaTeX. 
 
 这是一个天津大学（北洋大学）的博士毕业论文模板。注意，这是博士论文模板，硕士和本科同学请参考校方要求修改为本层级毕业要求的模板格式，或绕行参考其他Git。
 
