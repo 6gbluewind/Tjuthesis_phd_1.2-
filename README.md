@@ -32,4 +32,4 @@
 
 此外，有同学提出学位论文类型文献需要在年份前加入{type}字段，本人也尽量尝试进行完善。希望同学们多提出宝贵建议完善本模板。
 ***********************************************************
-Some international students have contacted with me to suggest that whethter I can build an English edition for TJU. Although I have graduated and work in TJUT, I still thank you for your suggestion. There is a plan. Now I suggest you can temporarily base on the Chinese edition to rectify.
+Some international students have contacted with me to suggest that whether I can build an English edition for TJU. Although I have graduated and work in TJUT, I still thank you for your suggestion. There is a plan. Now I suggest you can temporarily base on the Chinese edition to rectify.
